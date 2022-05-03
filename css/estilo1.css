@@ -1,0 +1,90 @@
+/* selector universal */
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+/* selector de etiqueta */
+h1{
+   
+   color:yellow;
+   margin-top: 15px;
+   margin-bottom: 5px;
+   text-align: center;
+   font-family:"outfit",sans-serif;
+   font size: 55px;
+   padding-top: 12px;
+   padding-bottom: 12px;
+}
+   h2{
+   color:yellow;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   text-align: center;
+   font size: 40px;
+   padding-top: 12px;
+   padding-bottom: 12px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+li{
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	padding: 10px 20px;
+	background-color: darkslateblue;
+	border: 1px solid white;
+	text-align: center;
+}
+
+li:hover{
+    text-decoration: blink;
+    color: yellow;
+}
+
+body{
+
+	font-family: "outfit",sans-serif;
+	background-image:url(../img/fondo.jpg) ;
+}
+
+/* selector de clase*/
+
+.logo{
+	height: 200px;
+    width: 200px;
+    margin: 15px;
+    
+}
+.cocinando{
+	height:400px;
+    width: 660px;
+    margin: center;
+    margin-top: 45px;
+    margin-left: 15px;
+ 
+}
+
+
+/* selector de id */
+
+#contenedor{
+    width: 710px;
+	height: 850px;
+	background-color:#218c74 ;
+    opacity: 97%;
+	margin-right: auto ;
+	margin-left: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color:#218c74 ;
+
+}
+
+
+

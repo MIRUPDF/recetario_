@@ -1,0 +1,145 @@
+/* selector universal */
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+/* selector de etiqueta */
+
+h1{
+   color: yellow;
+   margin-top: 25px;
+   margin-bottom: 20opx;
+   text-align: center;
+   font size: 65px;
+   font-family: "outfit",sans-serif;
+   padding-top: 10px;
+   padding-bottom: 12px;
+}
+   h2{
+   color:yellow;
+   margin-top: 12px;
+   margin-bottom: 12px;
+   text-align: left;
+   font-family:"outfit",sans-serif;
+   font size: 75px;
+   padding-top: 12px;
+   padding-bottom: 12px;
+}
+
+li{
+	color: white;
+	margin: 16px;
+	font-size: 18px;
+}
+
+ol{
+	color: white;
+	margin: 15px;
+	font-size: 18px;
+
+}
+
+body{
+
+	background-image:url(../img/fondo.jpg) ;
+}
+
+/* selector de clase*/
+
+.logo{
+	height: 200px;
+    width: 200px;
+    margin: 35px;
+}
+
+.foto brownie{
+	width: 100px;
+    margin margin-right: 25px;
+}
+
+/* selector de id */
+
+#contenedor{
+    width: 1000px;
+	height: 1840px;
+	background-color:#218c74 ;
+    opacity: 97%;
+    margin: auto;
+	margin-right: auto ;
+	margin-left: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color:#218c74 ;
+
+}
+
+
+
+
+
+
+
+
+
+
+ /* selector de etiqueta */
+h4{
+	color: #1B1464;
+	font-size: 22px;
+}
+
+/* selector de clase */
+
+.foto lemon pie{
+	margin-left: 50px;
+}
+
+/* selector de id */
+
+#contenedor2{
+    width: 1000px;
+	height: 2400px;
+	background-color:#218c74 ;
+    opacity: 97%;
+	margin-right: auto ;
+	margin-left: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color:#218c74 ;
+
+}
+
+
+
+
+
+
+
+
+
+/* selector de clase */
+
+.foto panqueque{
+	margin: center;
+	margin-left: !important;
+}
+
+/* selector de id */
+
+#contenedor3{
+    width: 1000px;
+	height: 1700px;
+	background-color:#218c74 ;
+    opacity: 97%;
+	margin-right: auto ;
+	margin-left: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color:#218c74 ;
+
+}
+
+
+
+
